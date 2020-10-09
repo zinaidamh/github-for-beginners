@@ -1,0 +1,31 @@
+[33mcommit 511c0d7316bfcbe464a1405569e04408f8e61faa[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: zinaidamh <zinaidamh@gmail.com>
+Date:   Fri Oct 9 22:28:00 2020 +0300
+
+    index changed
+
+[33mcommit 4df1848c88a5e87d1334fdeb0f09e5567370c6a5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zinaidamh <zinaidamh@gmail.com>
+Date:   Fri Oct 9 22:21:42 2020 +0300
+
+    readme changed
+
+[33mcommit a1b716820be7ea0ff509b20ab777ef1cf1965ddb[m
+Author: zinaidamh <zinaidamh@gmail.com>
+Date:   Fri Oct 9 22:19:30 2020 +0300
+
+    Create index.html
+    
+    index.html created
+
+[33mcommit ddb5586c640c21863577257084e5562ad9c6e698[m
+Author: zinaidamh <72624597+zinaidamh@users.noreply.github.com>
+Date:   Fri Oct 9 21:16:55 2020 +0300
+
+    Update .gitignore
+
+[33mcommit 7b799260ae7aa37bb931baba1cc589657150c7c8[m
+Author: zinaidamh <72624597+zinaidamh@users.noreply.github.com>
+Date:   Fri Oct 9 21:11:01 2020 +0300
+
+    Initial commit
